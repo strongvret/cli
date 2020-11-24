@@ -14,7 +14,7 @@
 2. apt-get upgrade
 3. apt-get install php php-cli php-curl -y
 4. git clone https://github.com/strongvret/cli
-5. cd cli-checker
+5. cd cli
 6. php run.php
 7. enter cc list
 8. enjoy!!
